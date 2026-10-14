@@ -1,0 +1,13 @@
+{
+  "name": "youssef-portfolio",
+  "version": "1.0.0",
+  "description": "Youssef Firas (Joe) Portfolio with AI Assistant",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["portfolio", "frontend", "ai-assistant"],
+  "author": "Youssef Firas",
+  "license": "ISC"
+}
